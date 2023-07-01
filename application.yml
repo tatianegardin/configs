@@ -35,7 +35,6 @@ message: Mensagem generica
 queue:
   serie-service: queue-serie-service
   movie-service: queue-movie-service
-  catalog-service: queue-catalog-service
 
 ## Resilience4J configs for CircuitBreaker Pattern
 resilience4j:
